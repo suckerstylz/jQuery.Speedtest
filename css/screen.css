@@ -112,7 +112,7 @@ body {
 }
 
 .speedtest {
-	background: url(../img/academy/speedtest_bg.jpg) no-repeat top left;
+	background: url(../img/speedtest_bg.jpg) no-repeat top left;
 	display: block;
 	height: 492px;
 	margin: 0 auto;
@@ -191,7 +191,7 @@ body {
 }
 
 .speedtest .speedtest-start {
-	background: url(../img/academy/speedtest_button_bg.png) no-repeat top left;
+	background: url(../img/speedtest_button_bg.png) no-repeat top left;
 	color: #fff;
 	display: block;
 	font-size: 16px;
@@ -211,7 +211,7 @@ body {
 }
 
 .speedtest .speedtest-result {
-	background: url(../img/academy/speedtest_foot.jpg) no-repeat top left;
+	background: url(../img/speedtest_foot.jpg) no-repeat top left;
 	display: none;
 	height: 80px;
 	padding-top: 15px;
